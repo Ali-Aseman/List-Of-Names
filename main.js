@@ -4,7 +4,7 @@ const chalk = require("chalk");
 const { addContact, listContacts, removeContact } = require("./contacts");
 
 yargs.scriptName(`${chalk.yellow("Contact Manager")}`);
-yargs.usage(`$0 ${chalk.red("<command>")} ${chalk.green("[args]")}`);
+yargs.usage(`$0 ${chalk.red("<Command>")} ${chalk.green("[Args]")}`);
 
 yargs.version("1.1.0");
 
