@@ -49,7 +49,7 @@ yargs.command({
 yargs.command({
     command: "remove",
     aliases: ["r"],
-    describe: `${chalk.green("[remove contact]")}`,
+    describe: `${chalk.red("[remove contact]")}`,
     builder: {
         fullname: {
             alias: "f",
