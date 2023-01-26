@@ -4,6 +4,10 @@
 
 https://user-images.githubusercontent.com/96992358/214935866-95a77d90-a65c-40a8-a7e7-3878e7c7ab89.mp4
 
+    npm i yargs
+    npm i chalk
+    npm i figlet
+    npm i clui
 
 A program to enhance problem solving in programming and help us store our contacts list in it.
 
